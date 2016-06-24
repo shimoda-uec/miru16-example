@@ -11,5 +11,5 @@ Understanding, a domestic conference in Japan).
 
 :Version: 0.1.0
 :Authors: Tatsuya Yatagawa (tatsy)
-:Web site: [https://github.com/tatsy/miru16-example.git](https://github.com/tatsy/miru16-example.git)
+:Web site: https://github.com/tatsy/miru16-example.git
 :License: MIT License
