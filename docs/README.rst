@@ -7,5 +7,5 @@
 3. テストの実行_
 
 .. _レポジトリの作成: ./01_create_repo/01_create_repo.rst
-.. _コードを書く: ./02_create_repo/02_create_repo.rst
+.. _コードを書く: ./02_write_codes/02_write_codes.rst
 .. _テストの実行: ./03_testing/03_testing.rst
