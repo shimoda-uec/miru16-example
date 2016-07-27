@@ -27,3 +27,9 @@ def div(x, y):
     Divide x with y.
     """
     return x / y
+
+def rem(x, y):
+    """
+    Get reminder of x with y.
+    """
+    return x % y
