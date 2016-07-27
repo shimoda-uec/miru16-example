@@ -27,3 +27,9 @@ def div(x, y):
     Divide x with y.
     """
     return x / y
+
+def mod(x, y):
+    """
+    Get mod of x with y.
+    """
+    return x % y
