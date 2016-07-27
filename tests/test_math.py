@@ -23,5 +23,8 @@ class TestCore(unittest.TestCase):
         self.assertEqual(m.div(4, 2), 2)
         self.assertRaises(ZeroDivisionError, m.div, 4, 0)
 
+    def test_rem(self):
+        self.assertEqual(m.rem(3, 2), 1)
+
 if __name__ == '__main__':
     unittest.main()
